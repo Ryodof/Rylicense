@@ -15,3 +15,6 @@ def mit(name: str, year: str):
     with open("output/output.txt", "w") as q:
         q.write(license_text)
     print(license_text)
+    
+#def apache():
+    
